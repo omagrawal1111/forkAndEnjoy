@@ -1,3 +1,5 @@
+# Brain Tumor Detection Project
+
 ## How To Run :
 Step 1: First download Brain Tumor folder</br>
 
