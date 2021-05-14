@@ -1,7 +1,7 @@
 # Brain Tumor Detection Project
 
-## How To Run :
-Step 1: First download Brain Tumor folder</br>
+## How To Run : 💻
+Step 1: First download ⬇ Brain Tumor folder</br>
 
 Step 2: Paste this folder to your Google drive</br>
 
