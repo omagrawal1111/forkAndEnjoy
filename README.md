@@ -3,7 +3,7 @@
 ### Need any help or Study material, Fill the form below:⏬</br>
 
   -----> <a href="https://forms.gle/BEPC6BUFcWh33MBf7">Click Here</a><-----</br>
-### We are currently Updating our projects.So Stay Tuned 📲
+### We are currently Updating this Repo,So Stay Tuned 📲
 
 ## Steps for Downloading Projects:
 
