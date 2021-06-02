@@ -22,4 +22,5 @@ Step 3: And Open the folder from your downloads & then run the projects on any p
  </tr>
 </table>
 
-💻Feel free to contribute with a pull request 💻
+💻Feel free to contribute with a pull request 💻 <br/>
+📲Or mail us in case of query.
